@@ -1,0 +1,11 @@
+C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst.Contracts\bin\Debug\net6.0\SuperBreakfvst.Contracts.deps.json
+C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst.Contracts\bin\Debug\net6.0\SuperBreakfvst.Contracts.dll
+C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst.Contracts\bin\Debug\net6.0\SuperBreakfvst.Contracts.pdb
+C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst.Contracts\obj\Debug\net6.0\SuperBreakfvst.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst.Contracts\obj\Debug\net6.0\SuperBreakfvst.Contracts.AssemblyInfoInputs.cache
+C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst.Contracts\obj\Debug\net6.0\SuperBreakfvst.Contracts.AssemblyInfo.cs
+C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst.Contracts\obj\Debug\net6.0\SuperBreakfvst.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst.Contracts\obj\Debug\net6.0\SuperBreakfvst.Contracts.dll
+C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst.Contracts\obj\Debug\net6.0\refint\SuperBreakfvst.Contracts.dll
+C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst.Contracts\obj\Debug\net6.0\SuperBreakfvst.Contracts.pdb
+C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst.Contracts\obj\Debug\net6.0\ref\SuperBreakfvst.Contracts.dll

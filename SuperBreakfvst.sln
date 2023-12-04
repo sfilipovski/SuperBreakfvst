@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperBreakfvst", "SuperBreakfvst\SuperBreakfvst.csproj", "{3BAD186C-96C2-4BF8-948F-E80F14F7759F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperBreakfvst.Contracts", "SuperBreakfvst.Contracts\SuperBreakfvst.Contracts.csproj", "{69ED6E46-D59A-40A2-B2A1-7ACEFC1B3EB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BAD186C-96C2-4BF8-948F-E80F14F7759F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BAD186C-96C2-4BF8-948F-E80F14F7759F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BAD186C-96C2-4BF8-948F-E80F14F7759F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BAD186C-96C2-4BF8-948F-E80F14F7759F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69ED6E46-D59A-40A2-B2A1-7ACEFC1B3EB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69ED6E46-D59A-40A2-B2A1-7ACEFC1B3EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69ED6E46-D59A-40A2-B2A1-7ACEFC1B3EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69ED6E46-D59A-40A2-B2A1-7ACEFC1B3EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6275A16-63C3-4ECA-9498-761C93984C8F}
+	EndGlobalSection
+EndGlobal
