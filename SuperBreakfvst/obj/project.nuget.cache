@@ -1,15 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "Rr7aUiSFJjn3uIovPfn8nTzZqh9lBGPIXV05VWnJk3vo/Mh03uDOs2QRfEiQhwDZYdAzfwFRJiphNLOIbSBwGw==",
+  "dgSpecHash": "8XUEeN1Ucq3yVVFbMrWJifqkgD65VDUqqYHWP7McSqNLWMT01FhJZTTWfIZMHCtYj2mFTkYks/5YCt/2PfRESQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sergey\\source\\repos\\SuperBreakfvst\\SuperBreakfvst\\SuperBreakfvst.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Sergey\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\Sergey\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\Sergey\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
-    "C:\\Users\\Sergey\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
-    "C:\\Users\\Sergey\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "C:\\Users\\Sergey\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    "C:\\Users\\Sergey\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.4\\microsoft.extensions.configuration.3.1.4.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.4\\microsoft.extensions.configuration.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.4\\microsoft.extensions.configuration.fileextensions.3.1.4.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.4\\microsoft.extensions.configuration.json.3.1.4.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.4\\microsoft.extensions.fileproviders.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.4\\microsoft.extensions.fileproviders.physical.3.1.4.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.4\\microsoft.extensions.filesystemglobbing.3.1.4.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.4\\microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\restclient\\3.1024.23771\\restclient.3.1024.23771.nupkg.sha512"
   ],
   "logs": []
 }

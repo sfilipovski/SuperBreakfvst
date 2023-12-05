@@ -5,16 +5,11 @@ C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst\bin\Debug\net6.0\Supe
 C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst\bin\Debug\net6.0\SuperBreakfvst.runtimeconfig.json
 C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst\bin\Debug\net6.0\SuperBreakfvst.dll
 C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst\bin\Debug\net6.0\SuperBreakfvst.pdb
-C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst\obj\Debug\net6.0\SuperBreakfvst.csproj.AssemblyReference.cache
 C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst\obj\Debug\net6.0\SuperBreakfvst.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst\obj\Debug\net6.0\SuperBreakfvst.AssemblyInfoInputs.cache
 C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst\obj\Debug\net6.0\SuperBreakfvst.AssemblyInfo.cs
 C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst\obj\Debug\net6.0\SuperBreakfvst.csproj.CoreCompileInputs.cache
-C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst\obj\Debug\net6.0\SuperBreakfvst.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst\obj\Debug\net6.0\SuperBreakfvst.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst\obj\Debug\net6.0\staticwebassets\msbuild.SuperBreakfvst.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst\obj\Debug\net6.0\staticwebassets\msbuild.build.SuperBreakfvst.props
@@ -30,3 +25,7 @@ C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst\obj\Debug\net6.0\refi
 C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst\obj\Debug\net6.0\SuperBreakfvst.pdb
 C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst\obj\Debug\net6.0\SuperBreakfvst.genruntimeconfig.cache
 C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst\obj\Debug\net6.0\ref\SuperBreakfvst.dll
+C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst\bin\Debug\net6.0\SuperBreakfvst.Contracts.dll
+C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst\bin\Debug\net6.0\SuperBreakfvst.Contracts.pdb
+C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Sergey\source\repos\SuperBreakfvst\SuperBreakfvst\bin\Debug\net6.0\RestClient.dll
